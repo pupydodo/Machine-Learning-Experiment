@@ -1,0 +1,5 @@
+wind,humidity,rays,temp,label
+east,wet,normal,mild,rainy
+south,dry,high,hot,sunny
+north,dry,high,mild,sunny
+south,dry,normal,mild,rainy
